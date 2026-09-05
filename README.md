@@ -60,3 +60,15 @@ Hi, I'm Joshua — a B.Tech Computer Engineering student at Amrita Vishwa Vidyap
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/joshuakarthik2005/joshuakarthik2005/output/github-snake.svg" />
 </picture>
 </div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/joshua-karthik-ashok-00881a290/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:joshuakarthik2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0A101F" alt="Email" />
+</a>
+
+</div>
